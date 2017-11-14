@@ -1,5 +1,5 @@
 {
-  "name": "passport-steam",
+  "name": "passport-steam-thetown",
   "version": "1.0.8",
   "description": "Steam (OpenID) authentication strategy for Passport.",
   "author": {
